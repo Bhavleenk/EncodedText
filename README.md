@@ -13,4 +13,5 @@ future perfect), three persons, three moods, two voices (passive and active), tw
 alphabet is directly derived from the Etruscan and Greek alphabets.
 
 # Sample Image
+<im src="https://github.com/Bhavleenk/EncodedText/blob/main/sample/Sample_file.png">
 
